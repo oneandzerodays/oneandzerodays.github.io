@@ -1,0 +1,19 @@
+body {
+	backgorund-color: black; 
+	color: white;
+	font-family: Arial, sans-serif;
+	}
+header, h1, h2, h3, h4, h5, h6 {
+	color: green;
+	}
+a { 
+	color: green; 
+	text-decoration: none;
+	}
+a:hover {
+	text-decoration: underline;
+	}
+p, span, li, ul, ol, footer {
+	color: white;
+	}
+	
