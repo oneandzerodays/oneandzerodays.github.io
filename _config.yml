@@ -1,0 +1,7 @@
+title: My GitHub Pages
+theme: minima
+plugins: 
+	- jekyll-sass-converter 
+sass: 
+	style: compressed
+custom_css: styles.css 
