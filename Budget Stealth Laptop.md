@@ -1,1 +1,4 @@
-# Budget Stealth Laptop for Total Privacy
+--
+layout: default
+title: Budget Stealth Laptop
+--
